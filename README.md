@@ -1,4 +1,4 @@
-# Essay of Self-evolving Artificial Intelligence(SEAI)
+# An Essay of Self-evolving Artificial Intelligence(SEAI)
 
 http://blog.sina.com.cn/s/blog_1784561250102z1a9.html
 
